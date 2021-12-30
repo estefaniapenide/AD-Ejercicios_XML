@@ -1,0 +1,26 @@
+<ListadoPersonas>
+  <DatosPersona>
+    <firstname>Juan</firstname>
+    <lastname>123456</lastname>
+    <phone>
+      <code>986</code>
+      <number>123456</number>
+    </phone>
+    <fax>
+      <code>986</code>
+      <number>123456</number>
+    </fax>
+  </DatosPersona>
+  <DatosPersona>
+    <firstname>Patricia</firstname>
+    <lastname>896734</lastname>
+    <phone>
+      <code>982</code>
+      <number>123456</number>
+    </phone>
+    <fax>
+      <code>982</code>
+      <number>896734</number>
+    </fax>
+  </DatosPersona>
+</ListadoPersonas>

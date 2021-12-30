@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empresa>
+    <cif>1111</cif>
+    <nombre>La �nica empresa</nombre>
+    <listaempleados>
+        <empleado>
+            <dni>213321</dni>
+            <nombre>Luc�a L�pez</nombre>
+            <cargo>asdf</cargo>
+        </empleado>
+        <empleado>
+            <dni>213432</dni>
+            <nombre>Antonio Garc�a</nombre>
+            <cargo>sadf</cargo>
+        </empleado>
+    </listaempleados>
+</empresa>

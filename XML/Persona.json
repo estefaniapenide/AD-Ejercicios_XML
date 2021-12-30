@@ -1,0 +1,14 @@
+{
+  "nombre": "María",
+  "edad": 120,
+  "listaAsignaturas": [
+    {
+      "id": 1,
+      "nombre": "AADD"
+    },
+    {
+      "id": 2,
+      "nombre": "CD"
+    }
+  ]
+}
